@@ -12,5 +12,7 @@ public class ProjectB {
 
         double totalPrice;
 
+        
+
     }
 }
