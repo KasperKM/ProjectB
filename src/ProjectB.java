@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Project3dot33 {
+public class ProjectB {
 
     public static void main(String[] args) {
 
